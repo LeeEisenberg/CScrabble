@@ -1,4 +1,3 @@
-# The Undesirables II
 ## How to Play
 1. Running make with no arguments will immediately run a single instance of the client
 2. You can choose to either host, join, or load a game. Hosts will automatically join their own game, those who choose join will need to supply an id. The port is 25595
